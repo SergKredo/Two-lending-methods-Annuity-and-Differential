@@ -1,0 +1,5 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Differencyalnya method\bin\Release\Differencyalnya method.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Differencyalnya method\bin\Release\Differencyalnya method.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Differencyalnya method\bin\Release\Differencyalnya method.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Differencyalnya method\obj\Release\Differencyalnya method.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Differencyalnya method\obj\Release\Differencyalnya method.pdb
