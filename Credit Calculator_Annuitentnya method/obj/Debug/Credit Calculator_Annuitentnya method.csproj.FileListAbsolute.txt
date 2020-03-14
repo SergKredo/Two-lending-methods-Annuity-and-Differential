@@ -1,0 +1,6 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\bin\Debug\Credit Calculator_Annuitentnya method.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\bin\Debug\Credit Calculator_Annuitentnya method.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\bin\Debug\Credit Calculator_Annuitentnya method.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\obj\Debug\Credit Calculator_Annuitentnya method.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\obj\Debug\Credit Calculator_Annuitentnya method.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Credit Calculator\Credit Calculator\Credit Calculator_Annuitentnya method\obj\Debug\Credit Calculator_Annuitentnya method.pdb
