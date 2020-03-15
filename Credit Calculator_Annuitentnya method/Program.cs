@@ -104,7 +104,7 @@ namespace Credit_Calculator_Annuitentnya_method
                 totalSumOne += CreditPaymentToMonth();
                 totalSumTwo += mainDebt[i];
                 totalSumThree += accruedInterest[i];
-                Thread.Sleep(5);
+                Thread.Sleep(1);
             }
             Console.WriteLine();
             Console.Write("  Total loan:           {0:F}          {1:F}          {2:F}".ToUpper(), totalSumOne, totalSumTwo, totalSumThree);
